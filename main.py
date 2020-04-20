@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from pyecharts.charts import Tab
-from  covid19_helper import geo
+from covid19_helper import geo
 from covid19_helper.interface import *
 
 # def main():

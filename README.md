@@ -1,4 +1,4 @@
-# COVID_19 data visualization v1.0
+# COVID19 data visualization v1.0
 ## Introduction:
 
 This is a project of software modeling and analysis using pyecharts
