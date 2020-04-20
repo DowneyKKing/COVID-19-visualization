@@ -1,9 +1,9 @@
 # COVID_19 data visualization v1.0
-#### Introduction:
+## Introduction:
 
 This is a project of software modeling and analysis using pyecharts
 
-#### Functions:
+## Functions:
 
 Data visualization based on world map
 
